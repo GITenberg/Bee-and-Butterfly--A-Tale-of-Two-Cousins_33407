@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33094
     wikipedia: http://en.wikipedia.org/wiki/Lucy_Foster_Madison
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33407#Bee-and-Butterfly--A-Tale-of-Two-Cousins
 gutenberg_bookshelf: Animals-Wild-Insects
 gutenberg_issued: '2010-08-11'
 gutenberg_type: Text
